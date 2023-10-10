@@ -33,7 +33,7 @@ We critically analyze the results, discussing the impact of using the wrong mode
 In conclusion, our study indicates that leveraging unlabeled data for job salary prediction may not significantly improve model performance due to challenges such as error propagation. However, there is potential for further exploration of different models and techniques in the future.
 ## How to execute the program
 
-Chooose the file a3-2023-S1.ipynb
+Chooose the file job Salary Prediction.ipynb
 
 Simply click on the "Run all" button, and the program will automatically execute.
 ## Datasets
